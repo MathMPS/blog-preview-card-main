@@ -36,6 +36,8 @@ main {
     max-height: 522px;
     border-radius: 1.25rem;
     padding: 1.5rem;
+    box-shadow: 8px 8px var(--Gray-950);
+    margin-bottom: 10px;
 }
 
 img { 
@@ -64,7 +66,7 @@ img {
   width: 32px;
   margin: 0;
 }
-#info h5 {
+#info h4 {
 margin: auto auto auto 0;
 }
 
